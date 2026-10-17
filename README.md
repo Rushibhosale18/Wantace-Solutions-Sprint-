@@ -12,12 +12,12 @@
 
 | Part | Component | Direct Markdown Link | Weight | Status |
 |---|---|---|---|---|
-| **Part A** | Operational Field Audit: Mahadev Corrugation (MIDC Bhosari) | [`Part_A_Audit_Guide_and_Template.md`](./Part_A_Audit_Guide_and_Template.md) | 20% | Complete |
-| **Part B** | Core Software BRD: Vardhan Steelware (Phase 1 MVC) | [`Part_B_Vardhan_Steelware_BRD.md`](./Part_B_Vardhan_Steelware_BRD.md) | 45% | Complete & Rigorous |
-| **Part C** | Account Executive (AE) Pre-Meeting Handoff Note | [`Part_C_AE_Handoff_Note.md`](./Part_C_AE_Handoff_Note.md) | 8% | Complete & Concise |
-| **Part D** | Marketing Content: LinkedIn Post (<150 words) + Hinglish Meta Ad | [`Part_D_Marketing_Assets.md`](./Part_D_Marketing_Assets.md) | 12% | Complete & Insight-Driven |
-| **Part E** | 5-Minute Video Recording Blueprint & 7-Line AI Usage Statement | [`Part_E_Video_Script_and_AI_Note.md`](./Part_E_Video_Script_and_AI_Note.md) | 15% | Complete |
-| **Master** | Consolidated Full Dossier (Parts A–E) | [`Wantace_Solutions_Sprint_Master_Submission.md`](./Wantace_Solutions_Sprint_Master_Submission.md) | 100% | Complete |
+| **Part A** | Operational Field Audit: Mahadev Corrugation (MIDC Bhosari) | [Part_A_Audit_Guide_and_Template.md](./Part_A_Audit_Guide_and_Template.md) | 20% | Complete |
+| **Part B** | Core Software BRD: Vardhan Steelware (Phase 1 MVC) | [Part_B_Vardhan_Steelware_BRD.md](./Part_B_Vardhan_Steelware_BRD.md) | 45% | Complete & Rigorous |
+| **Part C** | Account Executive (AE) Pre-Meeting Handoff Note | [Part_C_AE_Handoff_Note.md](./Part_C_AE_Handoff_Note.md) | 8% | Complete & Concise |
+| **Part D** | Marketing Content: LinkedIn Post (<150 words) + Hinglish Meta Ad | [Part_D_Marketing_Assets.md](./Part_D_Marketing_Assets.md) | 12% | Complete & Insight-Driven |
+| **Part E** | 5-Minute Video Recording Blueprint & 7-Line AI Usage Statement | [Part_E_Video_Script_and_AI_Note.md](./Part_E_Video_Script_and_AI_Note.md) | 15% | Complete |
+| **Master** | Consolidated Full Dossier (Parts A–E) | [Wantace_Solutions_Sprint_Master_Submission.md](./Wantace_Solutions_Sprint_Master_Submission.md) | 100% | Complete |
 
 ---
 
