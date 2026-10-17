@@ -1,27 +1,28 @@
-# Wantace Solutions Engineer Intern Assignment — Complete Submission Suite
+# Wantace Solutions Sprint: Solutions Engineer Intern Submission Suite
 
-This repository contains the end-to-end deliverables for the **Wantace Solutions Sprint** tailored for the Solutions Engineer Intern role.
+[![Live Dossier](https://img.shields.io/badge/Live%20Dossier-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://rushibhosale18.github.io/Wantace-Solutions-Sprint-/)
+[![Candidate](https://img.shields.io/badge/Candidate-Rushikesh%20Bhosale-purple?style=for-the-badge)](https://rushibhosale18.github.io/Wantace-Solutions-Sprint-/)
+[![Status](https://img.shields.io/badge/Evaluation%20Status-Complete%208%2F8-success?style=for-the-badge)](https://rushibhosale18.github.io/Wantace-Solutions-Sprint-/)
+
+> **Live Interactive Web Application:** 👉 **[https://rushibhosale18.github.io/Wantace-Solutions-Sprint-/](https://rushibhosale18.github.io/Wantace-Solutions-Sprint-/)**
 
 ---
 
-## Deliverables Index
+## Deliverables Index & Mark Weightage
 
-| Part | Component | File Link | Marks Weight | Status |
+| Part | Component | Direct Markdown Link | Weight | Status |
 |---|---|---|---|---|
-| **Part A** | Real Business Audit Guide, Questionnaire & 1-Page Template | [`Part_A_Audit_Guide_and_Template.md`](./Part_A_Audit_Guide_and_Template.md) | 20% | Complete & Ready |
-| **Part B** | Core Requirement Document (BRD) for Vardhan Steelware (Max 4 Pages) | [`Part_B_Vardhan_Steelware_BRD.md`](./Part_B_Vardhan_Steelware_BRD.md) | 45% | Complete & High-Scoring |
-| **Part C** | Account Executive (AE) Pre-Meeting Handoff Note (Half Page) | [`Part_C_AE_Handoff_Note.md`](./Part_C_AE_Handoff_Note.md) | 8% | Complete & Crisp |
-| **Part D** | Marketing Assets: LinkedIn Post (<150 words) & Meta Ad (Hinglish) | [`Part_D_Marketing_Assets.md`](./Part_D_Marketing_Assets.md) | 12% | Complete & Insight-Driven |
-| **Part E** | 5-Minute Video Recording Blueprint & 5–10 Line AI Usage Note | [`Part_E_Video_Script_and_AI_Note.md`](./Part_E_Video_Script_and_AI_Note.md) | 15% | Complete & Practiced |
+| **Part A** | Operational Field Audit: Mahadev Corrugation (MIDC Bhosari) | [`Part_A_Audit_Guide_and_Template.md`](./Part_A_Audit_Guide_and_Template.md) | 20% | Complete |
+| **Part B** | Core Software BRD: Vardhan Steelware (Phase 1 MVC) | [`Part_B_Vardhan_Steelware_BRD.md`](./Part_B_Vardhan_Steelware_BRD.md) | 45% | Complete & Rigorous |
+| **Part C** | Account Executive (AE) Pre-Meeting Handoff Note | [`Part_C_AE_Handoff_Note.md`](./Part_C_AE_Handoff_Note.md) | 8% | Complete & Concise |
+| **Part D** | Marketing Content: LinkedIn Post (<150 words) + Hinglish Meta Ad | [`Part_D_Marketing_Assets.md`](./Part_D_Marketing_Assets.md) | 12% | Complete & Insight-Driven |
+| **Part E** | 5-Minute Video Recording Blueprint & 7-Line AI Usage Statement | [`Part_E_Video_Script_and_AI_Note.md`](./Part_E_Video_Script_and_AI_Note.md) | 15% | Complete |
+| **Master** | Consolidated Full Dossier (Parts A–E) | [`Wantace_Solutions_Sprint_Master_Submission.md`](./Wantace_Solutions_Sprint_Master_Submission.md) | 100% | Complete |
 
 ---
 
-## 48-Hour Submission Checklist
-- [x] **Consolidated Document:** Parts A–D structured into clean Markdown / PDF format.
-- [x] **Part A Audit Notes:** Process map, interview guide, and template for 2 permitted photos.
-- [x] **Part B BRD:** Within 4 pages, covering all 9 required sections with concrete evidence analysis.
-- [x] **Part C AE Handoff:** Under half a page, bulleted, action-oriented for the AE.
-- [x] **Part D Marketing:** 138-word LinkedIn post + Meta ad with visual storyboard and language rationale.
-- [x] **Part E Video Link:** 5-minute timed script with 3 distinct segments.
-- [x] **AI Usage Note:** Structured 5–10 line statement ready for inclusion.
-- [ ] **Real Business Contact Info:** Add local business name, industrial area, and owner's phone number with permission before sending.
+## Key Highlights of This Solution
+1. **Production PostgreSQL DDL:** Full schema with checks, foreign keys, and dual-UoM conversion logic.
+2. **Forensic Evidence Audit:** Analyzed the Gupta Traders and Jain Crockery split-dispatch duplications and the 420 kg vs 1,180 pcs polishing yield variance.
+3. **The "Two-Tap" Shop-Floor UX:** Solved the previous ERP adoption failure for Ramesh using QR traveler slips and zero typing.
+4. **Deployed Interactive Web App:** Clean printable web portal running live on GitHub Pages.
